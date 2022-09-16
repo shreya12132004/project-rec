@@ -24,7 +24,7 @@ int main()
     areaList[i] =area;
     printf("Area is : %f ", area);
   }
- 
+
   return 0;
 }
 
